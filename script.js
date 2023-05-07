@@ -4,7 +4,7 @@ const headers = new Headers({
 });
 
 // Make a fetch request with the updated headers
-fetch('https://example.com', {
+fetch('https://muraliac.github.io/coursera-module-4/', {
   headers: headers
 })
   .then(response => {
